@@ -1,0 +1,24 @@
+{
+  "name": "steam-bot-idler",
+  "version": "1.0.0",
+  "description": "steam bot idler",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "bot",
+    "steam",
+    "idle"
+  ],
+  "author": "Leonardo Fiorin",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.1",
+    "steam-totp": "^2.1.1",
+    "steam-tradeoffer-manager": "^2.10.1",
+    "steam-user": "^4.12.4",
+    "steamcommunity": "^3.41.3"
+  }
+}
