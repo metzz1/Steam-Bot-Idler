@@ -1,2 +1,2 @@
-# Steam BOT Idler
+# Steam Idler
 Simple Steam BOT to Idle Games
